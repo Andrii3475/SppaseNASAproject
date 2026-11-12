@@ -6,3 +6,6 @@ from scene import Scene
 from effects import StarField, SunGlow
 from audio import StemMixer
 from timeline import Timeline, OBJECT_MIX
+
+class App(ShowBase):
+    pass
