@@ -1,5 +1,6 @@
-class Timeline:
-    pass
+"""Сценарій презентації. Може бути призупинений, коли користувач сам оглядає точку."""
 
-class OBJECT_MIX:
+from panda3d.core import ClockObject
+
+class Timeline:
     pass
